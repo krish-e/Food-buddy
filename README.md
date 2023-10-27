@@ -14,7 +14,7 @@
 
 ## Description
 
-`Food Buddy` is a Python project that allows users to filter restaurants from a list of restaurants available in the CSV file - restaurants.csv.
+`Food Buddy` is a Python project that allows users to filter restaurants from a list of restaurants available in the CSV file - Zomato-mini.csv
 
 The program will greet the user and depending on the current time, will refer to the meal like breakfast, lunch, or dinner.
 
@@ -45,8 +45,8 @@ The program has only one file - project.py within which it contains all the foll
 
 3. **avail_cuisines()**:
 
-    * Fetches all the non-duplicate cuisines from the list of dictionaries which was imported from the `restaurants.csv`
-    * Also returns all the cuisines in the restaurants.csv without duplicates
+    * Fetches all the non-duplicate cuisines from the list of dictionaries which was imported from the `Zomato-mini.csv`
+    * Also returns all the cuisines in the Zomato-mini.csv without duplicates
 
 
 4. **get_cuisine_and_rating()**:
@@ -84,7 +84,7 @@ I have added blank line(s) between one process and the other even within a funct
 
 - Python 3.6+
 - Libraries listed in `requirements.txt` (install using `pip install -r requirements.txt`)
-- The CSV file containing restaurant data - `restaurants.csv`
+- The CSV file containing restaurant data - `Zomato-mini.csv`
 
 
 ## Installation
@@ -107,7 +107,7 @@ I have added blank line(s) between one process and the other even within a funct
 
 ## Usage
 
-1. Ensure you have a CSV file containing restaurant data- `restaurants.csv` in the project directory.
+1. Ensure you have a CSV file containing restaurant data- `Zomato-mini.csv` in the project directory.
 
 2. Run the project from the command line:
 
