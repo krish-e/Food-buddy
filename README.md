@@ -1,6 +1,5 @@
 
 # FOOD BUDDY!
-#### Video Demo:  <URL HERE>
 
 ## Table of Contents
 
