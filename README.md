@@ -119,6 +119,5 @@ I have added blank line(s) between one process and the other even within a funct
 
 
 ## Demo
-![]
-(https://github.com/krish-e/Food-buddy/blob/main/demo.gif)
+![](https://github.com/krish-e/Food-buddy/blob/main/demo.gif)
 
