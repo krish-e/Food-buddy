@@ -116,7 +116,6 @@ I have added blank line(s) between one process and the other even within a funct
 3. Follow the on-screen prompts to filter and search for restaurants to your preference.
 
 4. The filtered results will be displayed on the console with the phone number to contact the restaurant to order food or reserve a table.
-5. 
 
 ## Demo
 https://youtu.be/PVOJ-Y_0PX4
