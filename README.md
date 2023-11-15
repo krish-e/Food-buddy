@@ -24,7 +24,7 @@ Based on the data taken from the CSV, in the console, the user can filter the re
 
 The user can be careless with their inputs as the exceptions are being handled(for the most part) in this project.
 
-Ultimately, the program would display the restaurants' name, rating(out of 5), phone number, cuisines, and cost for 2 persons.
+Ultimately, the program would display the restaurants' names, rating(out of 5), phone number, cuisines, and cost for 2 persons.
 
 The program could be improved further with other preferences like multiple cuisines or dining/takeaway, etc., for which the data is already available in the CSV file.
 
@@ -116,7 +116,7 @@ I have added blank line(s) between one process and the other even within a funct
 3. Follow the on-screen prompts to filter and search for restaurants to your preference.
 
 4. The filtered results will be displayed on the console with the phone number to contact the restaurant to order food or reserve a table.
-
+5. 
 
 ## Demo
 https://youtu.be/PVOJ-Y_0PX4
